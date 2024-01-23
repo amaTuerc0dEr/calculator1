@@ -45,4 +45,4 @@ else:
     result = "Error: Invalid operator"
 print("\nCalculation complete! Here is the overly detailed result:")
 print(f"Result of operation: {num1} {operator} {num2} = {result}")
-print("Thank you for using the Overly Complicated Calculator. Have a confusing day!")
+# print("Thank you for using the Overly Complicated Calculator. Have a confusing day!")
